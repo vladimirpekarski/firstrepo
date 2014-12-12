@@ -1,0 +1,8 @@
+Iterations            String, ns                 StringBuffer, ns
+100                     331536                      30342
+500                     3592460                     140111
+10000                   454491869                   812554
+
+При конкатенации String создаётся новый объект, поэтому время потраченно на for больше.
+String - immutable
+StringBuffer - mutable

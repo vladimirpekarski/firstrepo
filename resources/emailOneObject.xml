@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<email emailId="1">
+    <body>Bla Bla Bla Bla</body>
+    <fromAddress>frommyemail@someemail.com</fromAddress>
+    <sendDate>2014/12/12 10:08:42</sendDate>
+    <subject>First email</subject>
+    <toAddress>john@somemeil.com</toAddress>
+</email>
